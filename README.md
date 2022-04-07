@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Makishimasu
+- 👀 I’m interested in modding games
+- 🌱 I’m currently learning to make mod menu for games
